@@ -1,2 +1,2 @@
-# functions
-created own library and used boolean values 
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
